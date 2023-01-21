@@ -6,6 +6,7 @@ See Example.ipynb for more details.
 File mLink.py contains implementation of maximum likelihood algorithm for N dimensional quantum system 
 with function maxlink that returns reconstructed density matrix for a set of observed probabilities
 F of given set of projectors. 
+File barPlot.py contains function plotDM that plots the real and imaginary parts of density matrix.
 
 
 ## Requirements
